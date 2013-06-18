@@ -1,0 +1,7 @@
+.center {text-align: center;}
+
+.max1200 {max-width: 1200px;}
+
+.leadImagePreview {}
+.leadImagePreview IMG { max-width: 800px;}
+.leadImagePreview button {margin: 10px;}
